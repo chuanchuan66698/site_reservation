@@ -12,6 +12,5 @@ PREFERRED_TIME_SLOTS = []  # 在这里添加偏好的时间段
 USERNAME = ""  # 学号
 PASSWORD = ""  # 密码
 
-
 # 预约时间配置
 RESERVATION_START_TIME = "00:00:00"  # 预约开始时间 
